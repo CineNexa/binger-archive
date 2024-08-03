@@ -1,5 +1,5 @@
-# CineNexa Archive
-All the apks of archive versions of CineNexa can be found here
+# Binger Archive
+All the apks of archive versions of Binger can be found here
 
 ### 1.0.6 (Latest)
 - [arm64](1.0/1.0.6/app-arm64-v8a-release.apk)
